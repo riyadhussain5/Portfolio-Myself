@@ -77,6 +77,7 @@ color: rgb(111, 0, 255);
     font-size: 23px;
     cursor: pointer;
     display: none;
+    z-index: 999;
 
 }
 .scroll-up-btn{
